@@ -4,7 +4,7 @@ authors:
   - family-names: Bache-Mathiesen
     given-names: Lena Kristin
     orcid: https://orcid.org/0000-0002-9466-7003
-title: "Missing data in training load"
-version: 1.0.0
-url: https://github.com/lenakba/missing-data-in-training-load
-date-released: 2021-07-29
+title: "Training load and injury risk review data (2022)"
+version: 2.0.0
+url: https://github.com/lenakba/Training-load-review-data
+date-released: 2022-10-25
